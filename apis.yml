@@ -7,4 +7,7 @@ description: 'Fortune 1000 company Spectrum Brands. Public API documentation has
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spectrum-brands
 apis: []
